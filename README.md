@@ -1,4 +1,4 @@
-# MLCMS Final Project: Learn and visualise representations for large data sets
+# Machine Learning & Crowd Simulation - Final Project: Learn and visualise representations for large data sets
 ### Project Summary
 In our project, we will utilise the megaman library, which is designed for scalable manifold
 learning. We will refer to the paper suggested by McQueen et al. and compare their
